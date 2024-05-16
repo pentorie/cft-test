@@ -1,7 +1,7 @@
 # cft-test
 Тестовое задание на Python-разработчика в ЦФТ. Залил сюда потому что mos.ru работает на костылях.
 
-## Запуск проекта
+## Запуск проекта (порт 3550)
 
     pip install fastapi uvicorn sqlalchemy fastapi-jwt[authlib]
     python main.py
